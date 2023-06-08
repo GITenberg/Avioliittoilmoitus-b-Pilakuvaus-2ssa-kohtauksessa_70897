@@ -1,0 +1,30 @@
+_repo: Avioliittoilmoitus-b-Pilakuvaus-2ssa-kohtauksessa_70897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heisalo, Lauri
+    alias: Vuori, Arvo Lauri
+    birthdate: 1884
+    deathdate: 1957
+    gutenberg_agent_id: '55984'
+    url: http://www.gutenberg.org/2009/agents/55984
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Heisalo
+description: ''
+gutenberg_issued: '2023-06-02'
+identifiers:
+  gutenberg: '70897'
+language: fi
+pgterms:marc905: 20160221130311heisalo
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Avioliittoilmoitus : $b Pilakuvaus 2:ssa kohtauksessa'
+url: http://www.gutenberg.org/ebooks/70897
